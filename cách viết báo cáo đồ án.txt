@@ -1,0 +1,31 @@
+báo cáo quản lí dự án môn học thiết kế đồ án hoặc là đồ án tốt nghiệp là phần quan trọng nhất chính là thể hiện sự khác biệt với môn thi tốt nghiệp của bậc đại học 
+-báo cáo đồ án khác với báo cáo thí nghiệm, báo cáo thí nghiệm là tường thuật lại nội dung công việc đã làm, còn báo cáo đồ án cần phải có lập luận
+-bậc đại học có 3 mức độ lập luận:Tiến sĩ là lập luận ra một cái mới hoàn toàn mà trước đó chưa có đóng góp cho nhân loại trong vòng 50 năm, Thạc sĩ mức độ lập luận vừa phải sao cho tạo ra cái mới trong khoảng 5-10 năm tới, bậc đại học lập luận trên cơ sở những cái đang có những sản phẩm đang có hoặc là những cái đồ án đã thực hiện để tìm ra cái lí do để mình thực hiện cái việc đó, ví dụ: giảm công suất của mạch, tối ưu hóa kích thước của mạch IOT làm cho thiết bị theo 1 hình dạng nhất định, hoặc muốn hoàn thiện 1 kĩ năng nào đó 
+-ngoài mục lục , bảng biểu thì một báo cáo chuẩn nên bao gồm 3 chương:
+    + chương 1: trả lời câu hỏi tại sao phải làm việc đó
+    + chương 2: trả lời câu hỏi làm như nào
+    + chương 3: trả lời câu hỏi kết quả của việc làm và so sánh nó với cái chương 1 
+cụ thể: chương 1 nên là tổng quan về mạch IOT
+		1.1 Tổng quan... nội dung này lên 2-3 trang 
+			nên dẫn dắt vấn đề từ bao quát để đưa đến vấn đề cụ thể ví dụ 1 trang đầu có thể giới thiệu về IOT, trang 2 có thể giới thiệu về cấu trúc của IOT, trang thứ 3 giới thiệu về các sản phẩm có trên thị trường, giới thiệu về các đồ án đã thực hiện(lỗi hay gặp là copy nguyên cần phải tham khảo có chọn lọc)
+		1.2 Tạo sao phải làm nên từ 2-3 trang nêu ra lí do thực hiện việc này từ phân tích ở mục 1.1 thường sẽ kết hợp với mô tả 1 cách định hướng nội dung của đồ án muốn làm
+		1.3 mục tiêu của đồ án: ở mục này cụ thể mục tiêu đặt ra thể hiện bằng tham số kĩ thuật ví dụ tại đồ án này em sẽ thiết kế thiết bị IOT để đo nhiệt độ với thông số kĩ thuật dự kiến như sau:
+		 + kích thước tối thiểu là chiều cao chiều rộng và chiều sâu (mm)
+		 + chống nước
+		 + công suất cực đại, nguồn cấp, chi phí không quá 2tr vnd trên 1 sp,... mục này sẽ có liên hệ với kết quả của chương 3 thường sẽ được cân đối sửa chữa cho phù hợp với kết quả đạt được
+		1.4 kết luận chương 1:thường khoảng 1/3 trang điểm lại các nội dung đã trình bày ở chuơng tại chương 1 em đã tìm hiểu về sản phẩm IOT..., nêu được ra cấu trúc..., so sánh các sản phẩm đang có và tìm hiểu cái báo cáo đồ án nghiên cứu khoa học sinh viên đã công bố. từ đó nêu ra được mục tiêu của đồ án này
+         
+	chương 2:
+		2.1 Thiết kế tổng quát thường thể hiện qua sơ đồ khối (sao cho người kĩ sư khác nhìn vào sơ đồ khối này có thể thực hiện được nhiều phương pháp khác nhau)-nên từ 2-3 trang
+		2.2 Thiết kế chi tiết(3-5trang) trên cơ sở 2.1 mục này sẽ chi tiết từng khối ví dụ như khối nguồn có thiết kế như sau: cuối cùng sẽ tổng hợp từng bộ phận nhỏ lại mạch 3d trong mỗi khối các tính toán cơ bản hoặc điển hình nên đưa vào 2.2
+		2.3 Thi công mạch(3-5 trang) phần này trình bày quá trình làm thí nghiệm b1 đặt mạch in, b2:lựa chọn linh kiện,b3: hàn, b4 đặt mạch vào hộp,b5 dán nhãn, mỗi 1 bước sẽ có hình ảnh và miêu tả 1-2 dòng
+		2.4 Hoàn thiện cỡ khoảng 1-2 trang
+		2.5 kết luận chương 1/3-2/3 trang
+	
+	chương 3: Thử nghiệm và đánh giá
+		3.1 Kịch bản thử nghiệm/nội dung hướng dẫn người dùng sử dụng sản phẩm, nội dung này người chế tạo phải nghĩ ra, tưởng tượng ra các nội dung, các bước mỗi tính năng của sản phẩm, thông thường mỗi tính năng sẽ chia thành các bước, nội dung phần này cx cần có mô tả, phần này cx khoảng 3-5 trang
+		3.2 Kết quả thử nghiệm chỉ nên 2-3 trang cần phải thảo luận, lập luận kết quả làm dk xem có phù hợp với mục tiêu nêu ra ở mục 1.4 hay không, cần phải so sánh kết quả đạt được với các kết quả liên quan đã nêu ở mục 1.1 và 1.2 
+		3.3 Đánh giá kết quả nên khoảng 1 trang, mục này sẽ đánh giá 1 cách tổng thế kết quả sau 1 khoảng thời gian thực hiện so với kì vọng nêu ra ở chương 1 trong mối quan hệ với nội dung thực hiện ở chương 2
+		3.4 kết luận chương 3(1/3 trang)
+Kết luận chung về đồ án 2/3-3/3 trang
+Tài liệu tham khảo(Luận án, Trang web, bài giảng, datasheet của sản phẩm)

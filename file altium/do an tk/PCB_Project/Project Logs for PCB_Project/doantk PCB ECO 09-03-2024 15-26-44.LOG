@@ -1,0 +1,28 @@
+Added Component: Designator=HD2(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD3(HED4)
+Add component (AddParameter): Name = "Value"; Value = "Header 4"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ESP32_30)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/891/esp32_wroom_32d_esp32_wroom_32u_datasheet_en-1365844.pdf"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DISPLAY_OLED)
+Added Pin To Net: NetName=5V Pin=HD2-1
+Added Pin To Net: NetName=GND Pin=HD2-2
+Added Pin To Net: NetName=3V3 Pin=HD3-1
+Added Pin To Net: NetName=SDA Pin=HD3-2
+Added Pin To Net: NetName=SCL Pin=HD3-3
+Added Pin To Net: NetName=GND Pin=HD3-4
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=5V Pin=U1-15
+Added Pin To Net: NetName=SCL Pin=U1-17
+Added Pin To Net: NetName=SDA Pin=U1-20
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Pin To Net: NetName=3V3 Pin=U1-30
+Added Pin To Net: NetName=GND Pin=U2-1
+Added Pin To Net: NetName=3V3 Pin=U2-2
+Added Pin To Net: NetName=SCL Pin=U2-3
+Added Pin To Net: NetName=SDA Pin=U2-4
+Added Member To Class: ClassName=doantk Member=Component HD2 Pin
+Added Member To Class: ClassName=doantk Member=Component HD3 Max30102
+Added Member To Class: ClassName=doantk Member=Component U1 ESP32_30
+Added Member To Class: ClassName=doantk Member=Component U2 DISPLAY_OLED

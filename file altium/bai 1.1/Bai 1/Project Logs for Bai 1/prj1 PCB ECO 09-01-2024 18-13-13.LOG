@@ -1,0 +1,79 @@
+Added Component: Designator=GSM(Sim800L)
+Added Component: Designator=HD1(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD2(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD3(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=HD4(HED2)
+Add component (AddParameter): Name = "Value"; Value = "Header 2"; VariantName = "[No Variations]"
+Added Component: Designator=LM1(lm2596)
+Added Component: Designator=LM2(lm2596)
+Added Component: Designator=P1(CON 4 4EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000979"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 4 2EDG5.08-4P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=P2(CON 3 3EDG5.08)
+Add component (AddParameter): Name = "Chung_Loai"; Value = "C?m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Don_Vi"; Value = "Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ghi_Chu"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Kieu_Chan"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ma_Hang"; Value = "MH000760"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ten_Linh_Kien"; Value = "CON 3 2EDG5.08-3P 5.08MM ( Xanh Cong)"; VariantName = "[No Variations]"
+Added Component: Designator=U1(ESP32_30)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.mouser.com/datasheet/2/891/esp32_wroom_32d_esp32_wroom_32u_datasheet_en-1365844.pdf"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=P2-3
+Added Pin To Net: NetName=3V3 Pin=U1-30
+Added Net: Name=3V3
+Added Pin To Net: NetName=3V7 Pin=GSM-2
+Added Net: Name=3V7
+Added Pin To Net: NetName=5V Pin=HD1-1
+Added Pin To Net: NetName=5V Pin=HD2-1
+Added Pin To Net: NetName=5V Pin=LM1-4
+Added Pin To Net: NetName=5V Pin=LM2-1
+Added Pin To Net: NetName=5V Pin=P1-2
+Added Pin To Net: NetName=5V Pin=P1-2
+Added Pin To Net: NetName=5V Pin=U1-15
+Added Net: Name=5V
+Added Pin To Net: NetName=DATA Pin=P2-2
+Added Pin To Net: NetName=DATA Pin=U1-26
+Added Net: Name=DATA
+Added Pin To Net: NetName=GND Pin=GSM-6
+Added Pin To Net: NetName=GND Pin=HD1-2
+Added Pin To Net: NetName=GND Pin=HD2-2
+Added Pin To Net: NetName=GND Pin=LM1-3
+Added Pin To Net: NetName=GND Pin=LM2-2
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Pin To Net: NetName=GND Pin=U1-14
+Added Pin To Net: NetName=GND Pin=U1-29
+Added Net: Name=GND
+Added Pin To Net: NetName=NetHD3_1 Pin=HD3-1
+Added Pin To Net: NetName=NetHD3_1 Pin=LM1-1
+Added Net: Name=NetHD3_1
+Added Pin To Net: NetName=NetHD3_2 Pin=HD3-2
+Added Pin To Net: NetName=NetHD3_2 Pin=HD4-1
+Added Net: Name=NetHD3_2
+Added Pin To Net: NetName=NetHD4_2 Pin=HD4-2
+Added Pin To Net: NetName=NetHD4_2 Pin=LM1-2
+Added Net: Name=NetHD4_2
+Added Pin To Net: NetName=RX2 Pin=GSM-5
+Added Pin To Net: NetName=RX2 Pin=U1-25
+Added Net: Name=RX2
+Added Pin To Net: NetName=SCL Pin=P1-4
+Added Pin To Net: NetName=SCL Pin=U1-17
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=P1-3
+Added Pin To Net: NetName=SDA Pin=U1-20
+Added Net: Name=SDA
+Added Pin To Net: NetName=TX2 Pin=GSM-4
+Added Pin To Net: NetName=TX2 Pin=U1-24
+Added Net: Name=TX2
+Added Class: Name=prj1
+Added Room: Name=prj1
